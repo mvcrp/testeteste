@@ -1,7 +1,7 @@
-#Git and Github
+# Git and Github
 
 Era um burrinho pedrês, miúdo e resignado
 
-##01 
+## 01 
 
 Tudo bem, intão
